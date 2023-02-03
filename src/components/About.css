@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor-texto {
+  width: 1150px;
+  height: 150px;
+  border: 2px solid #fafafa10;
+  margin-top: 110px;
+  border: radius 1rem;
+  display: flex;
+  margin-left: 290px;
+}
+
+.glass-effect {
+  background: #fafafa10;
+  backdrop-filter: blur(0.8rem);
+  left: 500px;
+}
+
+.texto {
+  bottom: 50px;
+  top: 10px;
+  left: 30px;
+  font-size: 17px;
+  color: rgb(208, 224, 228);
+  font-weight: bold;
+  position: relative;
+  align-items: center;
+  width: 1100px;
+  right: 80px;
+
+  position: relative;
+}
+
+.video {
+  top: 70px;
+  position: relative;
+  left: 470px;
+  display: flex;
+}
+
+.img-rick {
+  display: flex;
+  position: relative;
+  bottom: 80px;
+  top: 280px;
+  right: 1100px;
+  height: 380px;
+}
